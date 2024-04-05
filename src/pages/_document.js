@@ -8,7 +8,6 @@ export default function Document() {
         <link rel="manifest" href="/manifest.json" />
       </Head>
       <body>
-        <Home />
       </body>
     </Html>
   );
