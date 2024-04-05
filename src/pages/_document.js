@@ -1,4 +1,5 @@
 import { Html, Head, Main, NextScript } from "next/document";
+import Home from ".";
 
 export default function Document() {
   return (
@@ -7,7 +8,7 @@ export default function Document() {
         <link rel="manifest" href="/manifest.json" />
       </Head>
       <body>
-        <Main />
+        <Home />
         <NextScript />
       </body>
     </Html>
