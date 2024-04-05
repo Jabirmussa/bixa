@@ -8,7 +8,7 @@ const Home = () => {
     <main className="overflow-hidden relative bg-purple-900 h-screen">
       <div className="wrapper max-w-7xl w-4/5 mx-auto">
         <div className="logo"><Image src="/1x/logo.png" alt="logo" width={120} height={120} /></div>
-        <p className="text-white font-montserrat text-lg">Agora podes fazer bixa <br /> em casa!</p>
+        <p className="text-white text-lg">Agora podes fazer bixa <br /> em casa!</p>
         <button className="bg-yellow-400 rounded-md px-8 py-3">
           <a href="main.html" className="flex items-center gap-2">
             Começar!
