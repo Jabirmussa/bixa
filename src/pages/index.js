@@ -17,7 +17,7 @@ export default function Home() {
         </button>
       </div>
       <div className="patern absolute bottom-0 left-0">
-        <Image src={'/patern.svg'} alt="patern" width={300} height={300 />
+        <Image src={'/patern.svg'} alt="patern" width={300} height={300} />
       </div>
     </main>
   );
