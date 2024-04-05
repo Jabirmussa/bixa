@@ -2,12 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.patern{
-  position: absolute;
-  bottom: 0;
-  left: 0;
-}
-
 .patern img{
   width: 130%;
   height: 100%;
